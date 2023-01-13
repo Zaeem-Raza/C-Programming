@@ -1,0 +1,10 @@
+0001 Panadol 5mg CLINIX 20
+0002 Paracetamol 10mg CLINIX 10
+0003 Aspirin 10mg CLINIX 17
+0004 Dispirin 5mg CLINIX 09
+0005 Egix 10mg CLINIX 12
+0006 Calpol 5mg CLINIX 76
+0007 Augmenten 10mg CLINIX 19
+0008 Loprin 5mg CLINIX 20
+0009 Ayuna 10mg CLINIX 43
+00A1 Qbrelis 5mg CLINIX 21

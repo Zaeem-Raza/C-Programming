@@ -1,0 +1,4 @@
+3
+123   AliKhan     Sales Dept  35000    8     32200
+45    Arooj Butt  Stock Dept  40000    8     36800
+46    Faiq Sohail  D Marketing 50000    8     46000

@@ -1,0 +1,5 @@
+4
+123	Ali Khan	Sales Dept	35000	8	32200
+46	Faiq Sohail	D Marketing	56000	8	51520
+32	Malaika Farid	Sales Dept	65000	10	32980
+0			0	12	0
